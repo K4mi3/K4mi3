@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">I'm a Senior RPA developer, with an emphasis on UiPath, C# and Data Science enthusiast, sometimes I play with Python and ML</h3>
 
+
+<h3 align="center">If it walks like a duck, and quacks like a duck, then it's a duck.</h3>
+
 <img src=https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/11/sony-plans-new-men-in-black-trilogy-without-will-s_a2uf.jpg>
 
 - 🔭 I’m currently working on **C6 Bank**
