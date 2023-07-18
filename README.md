@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **C6 Bank**
 
-- 🌱 I’m currently learning **Machine Learning, Python, C3 and .Net**
+- 🌱 I’m currently learning **Machine Learning, Python, C# and .Net**
 
 - 📫 How to reach me **gaahdecastro@gmail.com**
 
