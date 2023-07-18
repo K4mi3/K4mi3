@@ -36,6 +36,6 @@
 <br>
 <br>
 <br>
-![Snake animation](https://github.com/K4mi3/K4mi3/blob/output/github-contribution-grid-snake.svg)
+<img alt="animação de cobra de grade de contribuição do github" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 <br>
 <img src=https://br.web.img2.acsta.net/videothumbnails/14/07/18/19/06/480786.jpg>
