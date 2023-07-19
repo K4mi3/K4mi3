@@ -34,6 +34,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/uipath-2.svg" height="50px" />
+<img src="https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P3A00000kHCUeUAO" height="50px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height="50px" />
+
 </p>
 
 <br>
