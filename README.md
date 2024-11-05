@@ -37,6 +37,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/uipath-2.svg" height="50px" />
 <img src="https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P3A00000kHCUeUAO" height="50px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" height="50px" />
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png](https://mlflow.org/docs/latest/index.html)" height="50px" />
 
 </p>
 
