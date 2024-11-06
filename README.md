@@ -40,7 +40,7 @@
 <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="50px" />
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="50px" />
-<img src="https://www.adamantmedia.com/wp-content/uploads/2020/08/ubuntu-server.webp" height="50px" />
+<img src="https://e7.pngegg.com/pngimages/510/203/png-clipart-ubuntu-linux-distribution-installation-canonical-linux-electronics-text.png" height="50px" />
 
 </p>
 
