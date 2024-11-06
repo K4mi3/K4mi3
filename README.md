@@ -40,7 +40,8 @@
 <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="50px" />
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="50px" />
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="50px" />
+<img src="![image](https://github.com/user-attachments/assets/9730f207-d404-42b0-b767-6fd6e3486c46)
+" height="50px" />
 
 </p>
 
